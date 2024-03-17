@@ -2,7 +2,6 @@
 <html>
 <head>
 <title>Page Title</title>
-<title>My Website</title>
 </head>
 <body>
 
